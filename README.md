@@ -9,7 +9,3 @@
 - **[Linux Fundamentals](Linux%20Fundamentals.md)**: Essential Linux commands, file permissions, and system navigation.
 - **[Tools](Tools.md)**: Overview of essential cybersecurity tools and usages.
 - **[Environment Setup](Environment%20Setup.md)**: Guide to setting up the learning environment (VMs, Kali Linux, etc.).
-
-### 🎥 Lab Walkthrough
-[**Click here to watch the Lab Walkthrough Video**](Lab-walkthrough.mp4)
-
