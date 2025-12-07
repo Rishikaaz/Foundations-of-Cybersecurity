@@ -1,9 +1,5 @@
 # Foundations of Cybersecurity
 
-This repository contains notes and resources regarding cybersecurity fundamentals, helpful commands, and setup instructions.
-
-## 📂 Contents
-
 ### 🔐 Domain Knowledge
 - **[Cybersecurity Basics](Cybersecurity%20basics.md)**: Core concepts including the CIA Triad, security principles, and common terminology.
 - **[Cryptography Basics](Cryptography%20Basics.md)**: Introduction to encryption, hashing, and cryptographic protocols.
