@@ -11,4 +11,5 @@
 - **[Environment Setup](Environment%20Setup.md)**: Guide to setting up the learning environment (VMs, Kali Linux, etc.).
 
 ### 🎥 Lab Walkthrough
-<video controls src="Lab-walkthrough.mp4" width="100%"></video>
+[**Click here to watch the Lab Walkthrough Video**](Lab-walkthrough.mp4)
+
