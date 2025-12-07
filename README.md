@@ -14,8 +14,5 @@ This repository contains notes and resources regarding cybersecurity fundamental
 - **[Tools](Tools.md)**: Overview of essential cybersecurity tools and usages.
 - **[Environment Setup](Environment%20Setup.md)**: Guide to setting up the learning environment (VMs, Kali Linux, etc.).
 
-## 🖼️ Media
-(Images and screenshots are included within the respective notes above)
-
 ### 🎥 Lab Walkthrough
 <video controls src="Lab-walkthrough.mp4" width="100%"></video>
