@@ -1,4 +1,4 @@
-# Cybersecurity Learning Resources
+# Foundations of Cybersecurity
 
 This repository contains notes and resources regarding cybersecurity fundamentals, helpful commands, and setup instructions.
 
